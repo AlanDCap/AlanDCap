@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlanDCap
-- 👀 I’m interested in coding and DB
+- 👀 I’m interested in front-end and DB
 - 🌱 I’m currently learning basic html, css and js
 
 <!---
